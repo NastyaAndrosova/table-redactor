@@ -1,0 +1,20 @@
+.t_container {
+    max-width: 60%;
+    right:50%;
+}
+.text {
+    border: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    resize: none;
+    outline: none;
+    overflow: auto;
+}
+.cross{
+cursor: pointer;
+    text-align: center;
+}
+
+
+
